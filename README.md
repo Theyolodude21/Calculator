@@ -1,4 +1,4 @@
-# Calculator
+# Simple JS Calculator
 
 This was a simple calculator made by me to do calculations from the Command Line.
 
